@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "650832647603",
+    "firebase_url": "https://capturflag-45bdb.firebaseio.com",
+    "project_id": "capturflag-45bdb",
+    "storage_bucket": "capturflag-45bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650832647603:android:258d7e82eaf86a9f",
+        "android_client_info": {
+          "package_name": "com.example.ctf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650832647603-n8hhk3vufkmkauielj7vj1caqbc75m01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ctf",
+            "certificate_hash": "a5bccc8d1eab36347433a363a98d4ac69ee1e2c7"
+          }
+        },
+        {
+          "client_id": "650832647603-irgiirmtojq48h4dleq17kpjdfan4ntk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Nad6X6FP4YXuWXn8HL1h1AISO7KfT_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650832647603-irgiirmtojq48h4dleq17kpjdfan4ntk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
